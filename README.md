@@ -13,13 +13,16 @@ A modern, responsive business website developed for **Shree Garpati Uniforms**.T
 - ✅ Google Maps location embed
 - ✅ Contact form UI
 - ✅ Free hosting with SSL
+  
 5️⃣ TECHNOLOGIES USED
 - HTML5  
 - CSS3  
 - Bootstrap 5  
 - Google Fonts (Poppins)  
 - Netlify (Deployment)
+  
 6️⃣ PROJECT STRUCTURE
+
 shree-garpati-uniforms
 |
 ├── index.html # Home page
@@ -29,10 +32,11 @@ shree-garpati-uniforms
 │ └── style.css # Main styling file
 │
 └── images # Images
+
 7️⃣ HOW TO RUN PROJECT
-## How to Run
 1. Download or clone the repository
 2. Open index.html in a browser
+
 8️⃣ AUTHOR / CREDITS
 Sneha Chandravanshi
 

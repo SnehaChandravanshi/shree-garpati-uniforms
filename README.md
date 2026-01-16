@@ -2,6 +2,7 @@
 # Shree Garpati Uniforms Website
 2️⃣ PROJECT DESCRIPTION
 A modern, responsive business website developed for **Shree Garpati Uniforms**.This website showcases services, provides contact details, FAQs, and enables instant WhatsApp communication with customers.
+
 3️⃣ LIVE DEMO
 ## Live Website - https://shree-garpati-uniforms.netlify.app/
 4️⃣ FEATURES
@@ -38,6 +39,6 @@ shree-garpati-uniforms
 2. Open index.html in a browser
 
 8️⃣ AUTHOR / CREDITS
-Sneha Chandravanshi
+-Sneha Chandravanshi
 
 
